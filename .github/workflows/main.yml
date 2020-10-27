@@ -34,6 +34,6 @@ jobs:
           git commit -m "homepage deployed"
           git push origin master
           echo 'Deployed like a rockstar 🎸'
-          # git co -b gh-pages
-          # git push origin gh-pages
-          # echo 'Pushed on Github Pages like hero 🦸‍♀️'
+          git co -b gh-pages
+          git push origin gh-pages
+          echo 'Pushed on Github Pages like hero 🦸‍♀️'
