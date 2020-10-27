@@ -39,5 +39,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
           CLEAN: true # Automatically remove deleted files from the deploy branch
-        run: |
-          echo 'Pushed on Github Pages like hero 🦸‍♀️'
