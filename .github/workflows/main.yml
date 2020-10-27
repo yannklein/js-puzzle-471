@@ -25,7 +25,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Build webpack project 🚀
         run: |
-          rm -rf dist
           yarn install
           yarn build
           echo 'Build finished! 💪'
