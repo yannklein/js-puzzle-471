@@ -93,7 +93,6 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-<<<<<<< HEAD
 // //////////
 // Rehearsal
 // //////////
@@ -163,9 +162,6 @@ cells.forEach((cell) => {
 });
 
 
-=======
-// live code todo
->>>>>>> 8e93b5230b93b4ab3d19a98b2510e02eb491a66c
 
 
 /***/ })
